@@ -12,7 +12,7 @@ An eCommerce app. This app is made using React, Redux(persist) etc. In this app 
 ## Deployment
 
 To see this project live click below
- Link:- https://abhikunu007.github.io/eCommerceApp/
+ Link:-  https://abhikunu007.github.io/eCommerce/
 
 
 ## Features
