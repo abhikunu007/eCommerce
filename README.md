@@ -1,3 +1,52 @@
+
+# eCommerce App
+
+An eCommerce app. This app is made using React, Redux(persist) etc. In this app we can see the product and their details like price, rating etc. We can add product to our cart. We can also edit and delete products. I have used a dummy ecommerce api service -  https://my-json-server.typicode.com/
+
+
+## Author
+
+- [@Abhishek Kumar](https://www.github.com/abhikunu007)
+
+
+## Deployment
+
+To see this project live click below
+ Link:- https://abhikunu007.github.io/eCommerceApp/
+
+
+## Features
+
+ - Show list of products from the API 
+ - Each product is editable by clicking on the “pencil” button. And we can edit that product inline.
+ - Each product is deletable, on clicking of the delete button you should delete the product.
+ - A sort button. On clicking it  sorts by “price” and show a cross button just beside it . On clicking the cross button remove the sort.
+ - A button to add a product to cart
+
+ - On clicking of the Add button add the product in the DB
+ - Show all the details of a product
+ - Give button to add a product to cart
+
+ - Show all the items in the cart
+
+
+
+
+## Demo
+
+![Alt text](c:/Users/Abhishek/Downloads/eCommerce%20App.gif)
+
+## Support
+
+For support, email abhishekkumaras007@gmail.com
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at abhishekkumaras007@gmail.com
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
